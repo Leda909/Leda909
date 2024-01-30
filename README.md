@@ -22,6 +22,20 @@ Here are some ideas to get you started:
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100px" height="100"/></a>
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a> 
 </p>
-
-      
+<br>
+<div align='center'>
+  <h2> GitHub Status:</h2>
+  <table style="width: 100%;">
+    <tr>
+        <td valign="top" align="center">
+            <img src="https://streak-stats.demolab.com/?user=Leda909&mode=weekly&theme=vue-dark&hide_border=false" style="max-width: 100%;">
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom" align="center">
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leda909&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+        </td>
+    </tr>
+  </table> 
+</div>     
   
