@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Leda909/Leda909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/banner.png" width="100%"/>
+<a href="https://www.linkedin.com/in/adel-k-54b142162/" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG"/></a>
 
 Here are some ideas to get you started:
 
