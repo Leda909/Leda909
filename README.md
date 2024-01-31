@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/adel-k-54b142162/" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG"/></a>
 
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on web development projects that takes me furter on learning
+- 👯 I’m looking to collaborate on more projects that takes me furter on the learning journey
 
 
 <h3 align="center"> :hammer_and_wrench:Languages and Tools:</h3> <br>
