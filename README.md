@@ -4,7 +4,7 @@
 - 🌱 Continously learning to code ..., while experimenting different languages
 
 <br><br>
-<h2 align="left"> 🛠️ Technical tools:</h2>
+<h2 align="left"> 🛠️ Technical playgrounds:</h2>
 
 <!---- Programing languages ---->
 <h4 align="center"> 💻 Programing languages:</h4><br>
