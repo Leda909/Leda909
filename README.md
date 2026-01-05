@@ -38,6 +38,38 @@
   </a>&nbsp;&nbsp;
 </p><br>
 
+<!-- Tools & Platforms -->
+<h4 align="center">🛠 DevOps, Cloude, Automation | Scripting, CI|CD, Version Control</h4><br>
+<p align="center">
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="70px" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+      <img src="https://blog.johnfolberth.com/wp-content/uploads/2021/03/YAML-1.jpg" alt="YAML" width="80" height=70 />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6owgj8w4Bpwc1q2BNQdQ0z_LqBLw-XB0Fg&s" alt="aws" width=90 />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeELfqnsZAFa7QU00kjkio5nwkEP9uilZVyg&s" alt="github actions" width=80 />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="70" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="70">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="70" >
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
+      <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile-1.png" alt="Makefile" width=70 />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br>
+
 <!--- Databases:-->
 <h4 align="center">🗄 Databases</h4> <br>
 <p align="center">
@@ -53,57 +85,46 @@
 </p><br>
 
 <!-- Web & Frameworks -->
-<h4 align="center">🌐 Web & Frameworks</h4><br>
+<h4 align="center">🌐 Web & Frameworks</h4>
 <p align="center">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="65"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="60"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
     <img src="https://help.brevo.com/hc/article_attachments/21011741633554" alt="joomla" width="90" />
   </a>&nbsp;&nbsp;&nbsp;
 </p><br>
 
-<!-- Tools & Platforms -->
-<h4 align="center">🛠 Tools & Platforms</h4><br>
+<!--  Data / AI / Machine Learning -->
+<h4 align="center">🧠 Data, AI & Machine Learning</h4>
 <p align="center">
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="70px"/>
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-      <img src="https://blog.johnfolberth.com/wp-content/uploads/2021/03/YAML-1.jpg" alt="YAML" width="80" height="80">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-      <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile-1.png" alt="Makefile" width="80" height="80">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6owgj8w4Bpwc1q2BNQdQ0z_LqBLw-XB0Fg&s" alt="aws" width="100px" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeELfqnsZAFa7QU00kjkio5nwkEP9uilZVyg&s" alt="github actions" width="100px" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="70" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="70">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="70" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="80" height="80">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/500px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Scikit-learn" width=70/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width=100 />
+  </a>&nbsp;&nbsp;&nbsp;
+</p><br>
+
+<h4 align="center"> Api tools </h4>
+<p align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-      <img src="https://res.cloudinary.com/apideck/image/upload/v1570527747/catalog/insomnia-rest/icon128x128.jpg" alt="postman" width="70" />
+      <img src="https://res.cloudinary.com/apideck/image/upload/v1570527747/catalog/insomnia-rest/icon128x128.jpg" alt="postman" width="60" />
     </a>&nbsp;&nbsp;&nbsp;
 </p><br>
 
