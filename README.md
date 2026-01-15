@@ -4,9 +4,9 @@
 - 🌱 Curious experimenter driven by continuous growth.
 - 🔍 Language-agnostic learner focused on architecture and optimal use cases.
 - 🤍 Compassionate developer for human-centric, multi-perspective solutions.
+- 🎨 Creative visual thinker bridging the gap between aesthetic beauty and functional code.
 
-🔭 CURRENTLY EXPLORING: DevOps | Data Engineering | AI and Machine Learning | Agentic Development
-
+🔭 CURRENTLY EXPLORING: **DevOps | Data Engineering | AI and Machine Learning | Agentic Development**
 <br><br>
 <h2 align="left"> 🛠️ Technical playgrounds:</h2>
 
