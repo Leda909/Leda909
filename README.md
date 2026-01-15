@@ -1,7 +1,11 @@
-<img src="/hey.png" width="100%"/>
+<img src="/HEY!.png" width="100%"/>
 <a href="https://www.linkedin.com/in/adel-k-54b142162/" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG"/></a>
 
-- 🌱 Continously learning to code ..., while experimenting different languages
+- 🌱 Curious experimenter driven by continuous growth.
+- 🔍 Language-agnostic learner focused on architecture and optimal use cases.
+- 🤍 Compassionate developer for human-centric, multi-perspective solutions.
+
+🔭 CURRENTLY EXPLORING: DevOps | Data Engineering | AI and Machine Learning | Agentic Development
 
 <br><br>
 <h2 align="left"> 🛠️ Technical playgrounds:</h2>
